@@ -1,0 +1,13 @@
+.container {
+    height: 100%;
+}
+
+.row {
+    height: 20%;
+}
+
+.box {
+    width: 100%;
+    border: 2px solid white;
+    background-color: blue;
+}
